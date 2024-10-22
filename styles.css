@@ -30,6 +30,12 @@ body{
     gap: 10px;
     padding: 25px;
 }
+
+
+.play0{
+
+    display: none;
+}
 button{
     width: 100px;
     height: 100px;
